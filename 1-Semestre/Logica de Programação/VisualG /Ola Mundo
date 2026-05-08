@@ -1,0 +1,23 @@
+Algoritmo "OLA MUNDO"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Descrição   : Exiba a frase ola mundo na tela!
+// Autor(a)    : Rafael
+// Data atual  : 30/08/2025
+Var
+// Seção de Declarações das variáveis 
+   txt: caracter
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   escreva ("Bem vindo! Estudante.")
+   escreval("")
+   escreval("")
+   Escreva ("Pressione a tecla enter para exebir a mensagem!", txt)
+            leia(txt)
+   escreval("")
+   escreva ("Ola, Mundo!")
+   escreval("")
+   escreval("")
+   escreva ("Pressione a tecla enter para encerra a mensagem!", txt)
+           leia(txt)
+Fimalgoritmo
