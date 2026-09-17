@@ -48,3 +48,10 @@ while True:
     # Caso o usuário digite uma opção que não existe
     else:
         print("\n⚠️ Opção inválida! Escolha 1 ou 2.")
+# Outra forma de verificar se o número é par ou ímpar,
+# utilizando a estrutura if/else tradicional.
+
+# if numero % 2 == 0:
+#     print(f" O número {numero} é PAR!")
+# else:
+#     print(f" O número {numero} é ÍMPAR!")
